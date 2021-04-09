@@ -6,10 +6,6 @@ Release Date : 04/09/2021 `v1.0`
 
 > + Initial Commit
 
-# Older Changelog
-
-none
-
 # Credit
 + Main Github Page : [https://github.com/bearaujus/](https://github.com/bearaujus/)
 + Linkedin : [https://www.linkedin.com/in/bearaujus/](https://www.linkedin.com/in/bearaujus/)
