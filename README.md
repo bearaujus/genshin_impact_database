@@ -1,5 +1,5 @@
 # Genshin Impact Database
-Latest Version : [v1.0]()
+Latest Version : [v1.0](https://github.com/bearaujus/genshin_impact_database/releases/tag/v1.0)
 
 # Latest Changelog
 Release Date : 04/09/2021 `v1.0`
